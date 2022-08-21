@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to bottom, #41D983, #37C374, #2B995B, #206F42, #195634);
+    background-attachment: fixed;
+    text-align: center;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    color: white;
+    font-weight: lighter;
+    text-shadow: 1px 1px 2px black;
+}
+
+section{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bolder;
+}

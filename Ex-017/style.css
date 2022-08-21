@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+* { /* Configurações Globais das CSS */
+    height: 100%;
+}
+
+body{
+    background-image: radial-gradient(circle, #115700 20%, #61DD42, #2BD600, #26571A, #20A300);
+    background-attachment: fixed ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    color: yellow;
+    background-image: linear-gradient(-45rad, #570600 20%, #DD4D42, #D60E00, #571E1A, #A30A00);
+}
+
+h2{
+    color: rgb(226, 223, 42);
+    background-image: linear-gradient(45rad, #570600 20%, #DD4D42, #D60E00, #571E1A, #A30A00);
+}
+
+h3{
+    color: #ffff00;
+    background-image: linear-gradient(to right, #570600 20%, #DD4D42, #D60E00, #571E1A, #A30A00);
+}
+
+h4{
+    color: rgba(238, 224, 28, 0.877);
+    background-image: linear-gradient(to left, #570600 20%, #DD4D42, #D60E00, #571E1A, #A30A00);
+}
+
+code{
+    color: #fff400;
+}
+
+p{
+    text-align: justify;
+}
